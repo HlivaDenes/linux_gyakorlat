@@ -72,3 +72,57 @@ A témakör célja, hogy a tanulók legyenek képesek fájloknak és könyvtára
 1. –	Fájlok és könyvtárak tulajdonosának és csoportjának meghatározása.
 1. –	Fájlok és könyvtárak tulajdonosának a megváltoztatása: a chown utasítás.
 1. –	Fájl és könyvtárak jogosultságai, azok beállítása: a chmod utasítás.
+
+#### FELADATOK
+1. Parancssori felületet (CLI) használ
+1. Súgókat és manuálokat használ
+1. Fájl- és könyvtárkezelési feladatokat végez
+1. Állományokat archivál és tömörít
+1. Utasításláncokat (pipeline) használ
+1. Egyszerű shell szkriptet készít
+1. Csomagokat telepít, frissít és eltávolít
+1. Folyamatokat menedzsel
+1. Naplófájlokat ellenőriz
+1. Hálózati beállításokat konfigurál és ellenőriz
+1. Csoportot létrehoz, módosít és töröl
+1. Felhasználót létrehoz, módosít és töröl
+1. Beállítja a felhasználói jelszavakat
+1. Fájlok és könyvtárak csoportját, tulajdonosát beállítja
+1. Fájlok és könyvtárak jogosultságait beállítja
+
+#### SZAKMAI ISMERETEK
+1. Kernel és folyamat fogalma
+1. Linux disztribúciók
+1. Nyílt forráskód, licencelés
+1. CLI és GUI felületek
+1. Ablakkezelők (Window Manager) és asztali környezetek (Desktop Environment)
+1. Linux utasítások általános szintaxisa
+1. Alias fogalma
+1. Fájl és könyvtár keresési módszerek, helyettesítő karakterek
+1. Súgók és manuálok
+1. Linux könyvtár hierarchia
+1. Abszolút- és relatív elérési útvonalak
+1. Fájl- és könyvtárkezelő utasítások
+1. Archiválás és tömörítés
+1. Utasítások láncolása (pipeline), I/O átirányítás
+1. Shell szkriptek és elemeik (változók, elágazások, ciklusok)
+1. Alkalmazások telepítése, dpkg és rpm csomagok kezelése
+1. Hálózati alapbeállítások, IPv4 és IPv6 címek konfigurációja
+1. Felhasználók és csoportok menedzselése
+1. Szimbolikus- és hard linkek
+1. Fájl jogosultságok, a jogosultságok megváltoztatása
+
+#### SZAKMAI KÉSZSÉGEK
+1. Linux parancssor kezelése
+1. Súgók és manuálok használata
+1. Fájlkezelési műveletek végzése
+1. Felhasználók és csoportok létrehozása
+
+#### SZEMÉLYES KOMPETENCIÁK
+1. Pontosság
+1. Precizitás
+
+#### MÓDSZERKOMPETENCIÁK
+1. Hibakeresés (diagnosztizálás)
+1. Problémamegoldás, hibaelhárítás
+1. Ismeretek helyénvaló alkalmazása
