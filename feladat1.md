@@ -1,9 +1,9 @@
 # Feladatsor
 
 1. Írassuk ki az aktuális könyvtár nevét:
-
+```bash
 $pwd
-
+```
 2. Írassuk ki az aktuális könyvtár tartalomjegyzékét teljes részletességgel:
 
 $ls –la
