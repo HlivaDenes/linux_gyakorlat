@@ -69,7 +69,7 @@ forras-ra.
 
 13. Csomagoljuk be a munka, és a temp könyvtárakat valamint a forras állományt.
 ```bash
-$tar –cvf csomag.tar munka temp forras 
+ 
 ```
 
 14. Ellenőrizzük le a csomag tartalmát:
