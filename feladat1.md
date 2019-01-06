@@ -5,14 +5,14 @@
 $pwd
 ```
 2. Írassuk ki az aktuális könyvtár tartalomjegyzékét teljes részletességgel:
-
+```bash
 $ls –la
-
+```
 3. Hozzunk létre egy temp és egy munka könyvtárat az aktuális könyvtáron belül:
-
+```bash
 $mkdir temp
 $mkdir munka
-
+```
 4. Készítsünk egy szöveges állományt forras néven a saját könyvtárunkban bármilyen
 tartalommal. A Ctrl+D billentyűkombináció hatására befejeződik a beírás, és lementődik a
 szöveg.
