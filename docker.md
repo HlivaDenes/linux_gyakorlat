@@ -7,5 +7,5 @@ alt_ctrl_t
 
 2. Docker konténer indítása (Ubuntu image) 
 ```bash
-docker run --name sajátnévem -it ubuntu
+docker run --name sajátnevem -it ubuntu
 ```
