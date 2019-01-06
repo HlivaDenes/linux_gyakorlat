@@ -1,12 +1,15 @@
 # Feladatsor
 
 1. Írassuk ki az aktuális könyvtár nevét:
+
 $pwd
 
 2. Írassuk ki az aktuális könyvtár tartalomjegyzékét teljes részletességgel:
+
 $ls –la
 
 3. Hozzunk létre egy temp és egy munka könyvtárat az aktuális könyvtáron belül:
+
 $mkdir temp
 $mkdir munka
 
